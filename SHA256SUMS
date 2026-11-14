@@ -1,0 +1,4 @@
+c43f32bd04339c1cd2d8caf6ec9a9fe15034bd9a3046e5af42aae54214281a92  answers/4b.jsonl
+30db49c4d958c333691913329152c3236c99a9753f2d99d40b6ba2cdf01d7587  eval/4b.scores.jsonl
+f39c046434aa32fc74720fa0b67dcdc20fe450e9ca04f9829d20ed7a464741c1  adapters/4b.adapter_config.json
+2f2ae069f4a22eb7d2ac0eb9f2dca37c1cf18460ebbd19a5386086bf3a65f0b8  valentia-4b-chemiq.safetensors
